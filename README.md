@@ -1,4 +1,5 @@
 # Active Directory Authentication Library (ADAL) plugin for Apache Cordova apps
+**WARNING: THIS REPOSITORY IS NO LONGER MAINTAINED**
 
 [![Build status](https://ci.appveyor.com/api/projects/status/hslf0dq6i33p320v/branch/master?svg=true)](https://ci.appveyor.com/project/adal-for-cordova-bot/azure-activedirectory-library-for-cordova/branch/master)
 [![Build Status](https://travis-ci.org/AzureAD/azure-activedirectory-library-for-cordova.svg?branch=master)](https://travis-ci.org/AzureAD/azure-activedirectory-library-for-cordova)
